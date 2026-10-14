@@ -68,6 +68,11 @@ The same loop, in words:
 | [docs/quality-checks.md](docs/quality-checks.md) | Verification checklist used before a task is called done. |
 | [docs/feedback-loop.md](docs/feedback-loop.md) | How Sara's feedback updates the workflow. |
 | [templates/task-tracker.md](templates/task-tracker.md) | Template for owner, status, and next check. |
+| [docs/releases/versioning.md](docs/releases/versioning.md) | How documentation snapshots are versioned. |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | Branches, pull requests, and the link check. |
+| [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Contributor Covenant 2.1. |
+| [SECURITY.md](SECURITY.md) | How to report a vulnerability in private. |
+| [AGENTS.md](AGENTS.md) | Notes for coding agents working in this repo. |
 
 ## Set up Firstmate in the Grok Bot app
 
@@ -191,4 +196,4 @@ Sara corrects a route, a brief, a report, or a miss. Firstmate applies the corre
 
 ## License
 
-[MIT](LICENSE). Copyright 2026 Sara.
+[MIT](LICENSE). Copyright 2026 Sara. Contributions follow the [code of conduct](CODE_OF_CONDUCT.md). Vulnerability reports use the [security policy](SECURITY.md).
