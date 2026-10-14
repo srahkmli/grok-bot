@@ -2,9 +2,9 @@
 
 All notable changes to the Firstmate docs and config are recorded here.
 
-## [Unreleased]
+Versions follow [docs/releases/versioning.md](docs/releases/versioning.md). Notes stay under Unreleased until a version is tagged.
 
-## [0.1.0] - 2026-10-14
+## [Unreleased]
 
 ### Added
 
@@ -15,3 +15,6 @@ All notable changes to the Firstmate docs and config are recorded here.
 - Delegated task tracker template
 - Feedback loop for turning Sara's corrections into workflow updates
 - MIT license, contributing guide, and issue templates
+- Security policy, code of conduct, and agent notes
+- Pull request template, issue template config, and versioning policy
+- Markdown link check on pull requests to main, and Dependabot for GitHub Actions
